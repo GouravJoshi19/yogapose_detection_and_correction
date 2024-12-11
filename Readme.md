@@ -54,7 +54,7 @@ The model was trained on a curated dataset containing annotated yoga poses. Key 
 ### Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/yoga-pose-detection.git
+   git clone https://github.com/GouravJoshi19/yogapose_detection_and_correction.git
    cd yoga-pose-detection
    ```
 2. **Install Dependencies**:
