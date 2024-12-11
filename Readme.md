@@ -103,7 +103,14 @@ This project was both challenging and rewarding. Developing a practical applicat
 ---
 
 ## Screenshots
-*Include screenshots of the application showing real-time pose detection and feedback.*
+![Screenshot 2024-12-11 225730](https://github.com/user-attachments/assets/dcd01c4d-0072-43dc-a525-97c9504d13b7)
+![Screenshot 2024-12-11 225742](https://github.com/user-attachments/assets/d87662ea-0a4d-45d3-94d2-1e1b4e7766b6)
+![Screenshot 2024-12-11 225753](https://github.com/user-attachments/assets/8f8e0f2b-c136-471d-9c69-56b84927e761)
+![Screenshot 2024-12-11 225805](https://github.com/user-attachments/assets/13630581-10d1-4034-a653-0d0adf9cab14)
+![Screenshot 2024-12-11 225817](https://github.com/user-attachments/assets/f21e2702-c035-4633-bb49-aa165f024d7e)
+![Screenshot 2024-12-11 225829](https://github.com/user-attachments/assets/ee5f88ec-948c-4132-817b-9c197f8a6498)
+
+
 
 ---
 
