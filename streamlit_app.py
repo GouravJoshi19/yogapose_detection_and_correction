@@ -14,7 +14,7 @@ mp_pose = mp.solutions.pose
 pose = mp_pose.Pose()
 
 # Load your trained model
-MODEL_PATH = "yoga.keras"  # Replace with the actual path
+MODEL_PATH = "./yoga.keras"  # Replace with the actual path
 model = load_model(MODEL_PATH)
 
 POSE_CLASSES = ['downdog', 'goddess', 'plank', 'tree', 'warrior2']

@@ -1,7 +1,10 @@
-streamlit
-tensorflow
-keras
-opencv-python-headless
-mediapipe
-numpy
-pandas
+streamlit == 1.40.2
+tensorflow == 2.18.0
+keras == 3.7.0
+opencv-contrib-python == 4.10.0.84
+opencv-python == 4.10.0.84
+opencv-python-headless == 4.10.0.84
+mediapipe == 0.10.18
+numpy == 1.26.4
+pandas == 2.2.3
+pillow == 11.0.0
